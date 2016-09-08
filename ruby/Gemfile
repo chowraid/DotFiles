@@ -1,0 +1,5 @@
+#Useful gems for development
+
+#Foundation for fast botstraping of site.
+#Make sure to run 'rails g foundation:install'
+gem 'foundation-rails'
