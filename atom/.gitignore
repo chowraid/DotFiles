@@ -1,0 +1,10 @@
+blob-store
+compile-cache
+storage
+code
+recovery
+storage
+.DS_Store
+.node-gyp
+.apm
+ide-init.coffee

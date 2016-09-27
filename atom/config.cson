@@ -1,0 +1,15 @@
+"*":
+  core:
+    themes: [
+      "atom-material-ui"
+      "atom-material-syntax-dark"
+    ]
+  editor:
+    invisibles: {}
+  "exception-reporting":
+    userId: "b346455c-26da-60c1-639e-1c82e744ff0f"
+  "integrated-learn-environment":
+    oauthToken: "e4a7185f96e206f07a24fd7fba61e77be8af7b716b27c4c969a35b977dd32633"
+    vm_port: 16870
+  welcome:
+    showOnStartup: false
